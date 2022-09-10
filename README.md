@@ -4,4 +4,4 @@
 ###### <sub>The Fourth Heading </sub>
 ###### <sup>The Fifth Heading </sup>
 ###### > The Sixth Heading
-#0969DA	Color Text
+#### This site was built using [GitHub Pages](https://pages.github.com/).
