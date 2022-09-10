@@ -5,7 +5,7 @@
 ###### <sup>The Fifth Heading </sup>
 ###### > The Sixth Heading
 #### This site was built using [GitHub Pages](https://pages.github.com/).
-#### ![I love coding.](https://img.freepik.com/premium-photo/desktop-source-code-wallpaper-by-computer-language-with-coding-programming_33771-597.jpg?w=996)
+#### ![I love coding.](https://c.tenor.com/VuNKlA9_T2wAAAAC/happy-fun.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
